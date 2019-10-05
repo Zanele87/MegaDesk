@@ -1,0 +1,14 @@
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\bin\Debug\MegaDesk-Walker.exe.config
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\bin\Debug\MegaDesk-Walker.exe
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\bin\Debug\MegaDesk-Walker.pdb
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk-Walker.csprojAssemblyReference.cache
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Forms.AddQuote.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Forms.DisplayQuote.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Forms.MainMenu.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Forms.SearchQuotes.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Forms.ViewAllQuotes.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk_Walker.Properties.Resources.resources
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk-Walker.csproj.GenerateResource.cache
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk-Walker.csproj.CoreCompileInputs.cache
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk-Walker.exe
+C:\Users\Zanele_H\Source\Repos\MegaDesk-Walker\MegaDesk-Walker\obj\Debug\MegaDesk-Walker.pdb
